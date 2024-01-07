@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a simple Age Calculator web application built with PHP. It takes the user's date of birth as input and calculates the age in years, months, days, hours, minutes, and seconds.
+This is a `simple Age Calculator` web application built with PHP. It takes the user's date of birth as input and calculates the age in years, months, days, hours, minutes, and seconds.
 
 ## Features
 
@@ -25,13 +25,13 @@ This is a simple Age Calculator web application built with PHP. It takes the use
    Access the application in your web browser at http://localhost/age-calculator.
 
 ## Usage
-Open the application in your web browser.
+- Open the application in your web browser.
 
-Enter your date of birth in the provided input field.
+- Enter your date of birth in the provided input field.
 
-Click the "Calculate Age" button.
+- Click the "Calculate Age" button.
 
-View your current age displayed in years, months, days, hours, minutes, and seconds.
+- View your current age displayed in years, months, days, hours, minutes, and seconds.
 
 ## Contributing
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
